@@ -55,7 +55,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [LSTM text generation](https://github.com/diixo/keras/blob/master/examples/lstm_text_generation.py)
 - [Using pre-trained word embeddings](https://github.com/diixo/keras/blob/master/examples/pretrained_word_embeddings.py)
 - [Monolingual and Multilingual Image Captioning](https://github.com/elliottd/GroundedTranslation)
-- [FastText on the IMDB dataset](https://github.com/fchollet/keras/blob/master/examples/imdb_fasttext.py)
+- [FastText on the IMDB dataset](https://github.com/diixo/keras/blob/master/examples/imdb_fasttext.py)
 - [Structurally constrained recurrent nets text generation](https://github.com/nzw0301/keras-examples/blob/master/SCRNLM.ipynb)
 - [Character-level convolutional neural nets for text classification](https://github.com/johnb30/py_crepe)
 - [LSTM to predict gender of a name](https://github.com/divamgupta/lstm-gender-predictor)
@@ -63,9 +63,9 @@ If you have a high-quality tutorial or project to add, please open a PR.
 
 ### Working with images
 
-- [Simple CNN on MNIST](https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py)
-- [Simple CNN on CIFAR10 with data augmentation](https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py)
-- [Inception v3](https://github.com/fchollet/keras/blob/master/examples/inception_v3.py)
+- [Simple CNN on MNIST](https://github.com/diixo/keras/blob/master/examples/mnist_cnn.py)
+- [Simple CNN on CIFAR10 with data augmentation](https://github.com/diixo/keras/blob/master/examples/cifar10_cnn.py)
+- [Inception v3](https://github.com/diixo/keras/blob/master/examples/inception_v3.py)
 - [VGG 16 (with pre-trained weights)](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)
 - [VGG 19 (with pre-trained weights)](https://gist.github.com/baraldilorenzo/8d096f48a1be4a2d660d)
 - ResNet 50 (with pre-trained weights): [1](https://github.com/fchollet/keras/pull/3266/files) - [2](https://github.com/raghakot/keras-resnet)
